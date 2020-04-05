@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/chandrakant/Desktop/RandD/FirstApiApp/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
+    export *
+}
